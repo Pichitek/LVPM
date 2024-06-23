@@ -1,0 +1,2 @@
+UART=Tx,Rx
+USB connections=Power,Data+,Data-,Ground

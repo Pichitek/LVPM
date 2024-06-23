@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=DIV_N Pin=C3-2
+Removed Pin From Net: NetName=DIV_N Pin=C4-1
+Removed Pin From Net: NetName=DIV_P Pin=R6-1
+Removed Pin From Net: NetName=DIV_N Pin=R7-1
+Removed Pin From Net: NetName=DIV_P Pin=R8-1
+Change Component Footprint: Designator=C9 Old Footprint=CAP0603 New Footprint=CAP1206
+Change Component Footprint: Designator=C10 Old Footprint=CAP0603 New Footprint=CAP1206
+Change Component Footprint: Designator=C11 Old Footprint=CAP0603 New Footprint=CAP1206
+Change Component Footprint: Designator=C12 Old Footprint=CAP0603 New Footprint=CAP1206
+Change Component Comment : Designator=R26 Old Comment=5k1 New Comment=1k5
+Change Component Comment : Designator=R27 Old Comment=5k1 New Comment=1k5
+Change Component Comment : Designator=R28 Old Comment=5k1 New Comment=1k5
+Change Component Comment : Designator=R29 Old Comment=5k1 New Comment=1k5
+Change Component Comment : Designator=R6 Old Comment=332R New Comment=1k5
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Added Pin To Net: NetName=DIV_N Pin=C4-2
+Added Pin To Net: NetName=DIV_N Pin=MP3-1
+Added Pin To Net: NetName=DIV_N Pin=MP3-1
+Added Pin To Net: NetName=DIV_N Pin=MP3-1
+Added Pin To Net: NetName=DIV_N Pin=MP3-1
+Added Pin To Net: NetName=DIV_N Pin=MP4-1
+Added Pin To Net: NetName=DIV_N Pin=MP4-1
+Added Pin To Net: NetName=DIV_N Pin=MP4-1
+Added Pin To Net: NetName=DIV_N Pin=MP4-1
+Added Pin To Net: NetName=DIV_P Pin=R6-1
+Change Net Name : Old Net Name=DIV_N New Net Name=NEG
+Change Net Name : Old Net Name=DIV_P New Net Name=NetC2_2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(153, 0, 255)
+Added Pin To Net: NetName=DIV_P Pin=C3-2
+Added Pin To Net: NetName=DIV_P Pin=C4-1
+Added Pin To Net: NetName=DIV_P Pin=R6-2
+Added Pin To Net: NetName=DIV_P Pin=R7-1
+Added Pin To Net: NetName=DIV_P Pin=R8-1
+Added Net: Name=DIV_P

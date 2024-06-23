@@ -1,0 +1,9 @@
+Added Differential Pair: Name=DIV
+Added Differential Pair: Name=D
+Added Differential Pair: Name=in-volt
+Added Differential Pair: Name=IN
+Added Differential Pair: Name=OUT
+Added Differential Pair: Name=volt
+Added Rule: Name=DifferentialPairsRouting_1
+Modified Rule: Name=Schematic Routing Via Style
+Modified Rule: Name=Schematic Width Constraint

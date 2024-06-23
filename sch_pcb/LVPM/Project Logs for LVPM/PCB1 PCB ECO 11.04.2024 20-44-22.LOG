@@ -1,0 +1,11 @@
+Added Component: Designator=TP1(SMD_TESTPOINT)
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=current Pin=TP1-1
+Added Member To Class: ClassName=main Member=Component FM1 *
+Added Member To Class: ClassName=main Member=Component FM2 *
+Added Member To Class: ClassName=main Member=Component FM3 *
+Added Member To Class: ClassName=CS Member=Component TP1 Testpoint

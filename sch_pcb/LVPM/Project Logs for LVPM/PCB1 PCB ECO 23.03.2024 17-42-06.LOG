@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=U7 Old Footprint=DGK0008A_N New Footprint=DGK0008A_N
+Change Component Footprint: Designator=J2 Old Footprint=FP-5-146257-7-MFG New Footprint=FP-5-146257-7-MFG
+Change Component Footprint: Designator=U5 Old Footprint=SLAB-SOIC-16-WB_M New Footprint=SLAB-SOIC-16-WB_M
+Change Component Footprint: Designator=U3 Old Footprint=STM-UFQFPN28_V New Footprint=STM-UFQFPN28_V
+Added Pin To Net: NetName=GND Pin=X1-3
+Change Class Name : Old Net Name=Designator New Net Name=iso
+Added Class: Name=CS
+Added Class: Name=pwr
+Added Class: Name=uC
+Added Class: Name=USB
+Added Class: Name=VS

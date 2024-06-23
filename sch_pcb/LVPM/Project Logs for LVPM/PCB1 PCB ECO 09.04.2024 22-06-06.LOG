@@ -1,0 +1,5 @@
+Change Component Comment : Designator=MH1 Old Comment=4mm New Comment=3mm
+Change Component Comment : Designator=MH2 Old Comment=4mm New Comment=3mm
+Change Component Comment : Designator=MH3 Old Comment=4mm New Comment=3mm
+Change Component Comment : Designator=MH4 Old Comment=4mm New Comment=3mm
+Added Member To Class: ClassName=iso Member=Component U6 FT232RNL

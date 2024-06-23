@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C2 Old Footprint=CAP0603 New Footprint=CAP1206
+Change Component Footprint: Designator=C3 Old Footprint=CAP0603 New Footprint=CAP1206
+Change Component Footprint: Designator=C4 Old Footprint=CAP0603 New Footprint=CAP1206
+Change Component Comment : Designator=R25 Old Comment=* New Comment=5k1
+Change Component Comment : Designator=R26 Old Comment=* New Comment=5k1
+Change Component Comment : Designator=D7 Old Comment=* New Comment=GREEN
+Change Component Comment : Designator=D9 Old Comment=* New Comment=GREEN
+Change Component Comment : Designator=D10 Old Comment=* New Comment=GREEN
+Change Component Comment : Designator=D8 Old Comment=* New Comment=YELLOW
+Change Component Comment : Designator=R13 Old Comment=10k New Comment=5k1
+Change Component Comment : Designator=R27 Old Comment=10k New Comment=5k1
+Change Component Comment : Designator=R28 Old Comment=10k New Comment=5k1
+Change Component Comment : Designator=R23 Old Comment=270 New Comment=5k1
+Change Component Comment : Designator=R24 Old Comment=270 New Comment=5k1
+Change Component Description : Designator=MP1 Old Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins New Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins | Wurth Electronics 74651174R
+Change Component Description : Designator=MP2 Old Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins New Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins | Wurth Electronics 74651174R
+Change Component Description : Designator=MP3 Old Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins New Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins | Wurth Electronics 74651174R
+Change Component Description : Designator=MP4 Old Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins New Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins | Wurth Electronics 74651174R

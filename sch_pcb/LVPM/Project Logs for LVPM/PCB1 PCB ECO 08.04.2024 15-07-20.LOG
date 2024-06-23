@@ -1,0 +1,59 @@
+Removed Member From Class: ClassName=uC Member=C28
+Removed Member From Class: ClassName=iso Member=C32
+Removed Member From Class: ClassName=pwr Member=C37
+Removed Member From Class: ClassName=CS Member=FB8
+Removed Member From Class: ClassName=pwr Member=R13
+Removed Member From Class: ClassName=uC Member=R20
+Added Component: Designator=U3(STM-UFQFPN28_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00104043.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "28-Pin Ultra Thin Fine Pitch Quad Flat No-Lead, 4 x 4 x 0.6 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "UFQFPN28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Boot0 Pin=U3-1
+Added Pin To Net: NetName=OSC-IN Pin=U3-2
+Added Pin To Net: NetName=OSC-OUT Pin=U3-3
+Added Pin To Net: NetName=VCC-STM Pin=U3-5
+Added Pin To Net: NetName=Alert-Fltr Pin=U3-6
+Added Pin To Net: NetName=USART1-Tx Pin=U3-8
+Added Pin To Net: NetName=USART1-Rx Pin=U3-9
+Added Pin To Net: NetName=in-curr Pin=U3-13
+Added Pin To Net: NetName=in-volt_P Pin=U3-14
+Added Pin To Net: NetName=in-volt_N Pin=U3-15
+Added Pin To Net: NetName=GND Pin=U3-16
+Added Pin To Net: NetName=VCC-STM Pin=U3-17
+Added Pin To Net: NetName=SWDIO Pin=U3-21
+Added Pin To Net: NetName=SWCLK Pin=U3-22
+Added Pin To Net: NetName=AMC-Diag Pin=U3-27
+Added Pin To Net: NetName=OC Pin=U3-28
+Added Member To Class: ClassName=uC Member=Component C15 2u2
+Added Member To Class: ClassName=uC Member=Component C16 1u
+Added Member To Class: ClassName=uC Member=Component C23 100n
+Added Member To Class: ClassName=uC Member=Component C25 320n
+Added Member To Class: ClassName=iso Member=Component C27 100n
+Added Member To Class: ClassName=iso Member=Component C29 100n
+Added Member To Class: ClassName=iso Member=Component C31 100n
+Added Member To Class: ClassName=pwr Member=Component C33 2u2
+Added Member To Class: ClassName=pwr Member=Component C35 100n
+Added Member To Class: ClassName=USB Member=Component C36 100n
+Added Member To Class: ClassName=CS Member=Component FB1 *
+Added Member To Class: ClassName=uC Member=Component R13 10k
+Added Member To Class: ClassName=uC Member=Component R15 0
+Added Member To Class: ClassName=uC Member=Component R17 1k
+Added Member To Class: ClassName=iso Member=Component R19 0
+Added Member To Class: ClassName=iso Member=Component R21 0
+Added Member To Class: ClassName=iso Member=Component R23 270
+Added Member To Class: ClassName=pwr Member=Component R25 *
+Added Member To Class: ClassName=pwr Member=Component R26 *
+Added Member To Class: ClassName=uC Member=Component U3 STM32F031G4U6

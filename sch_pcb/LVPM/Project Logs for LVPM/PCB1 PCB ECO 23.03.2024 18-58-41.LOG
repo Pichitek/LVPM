@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C16 Old Footprint=CAP0603 New Footprint=WCAP-PSLC_D8H11.7
+Change Component Footprint: Designator=C5 Old Footprint=CAP1206 New Footprint=CAP0603
+Change Component Footprint: Designator=C11 Old Footprint=CAP1206 New Footprint=CAP0603
+Change Component Footprint: Designator=C12 Old Footprint=CAP1206 New Footprint=CAP0603

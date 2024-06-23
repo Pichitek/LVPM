@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=+3V3 Pin=U5-1
+Removed Pin From Net: NetName=TxIn Pin=U5-2
+Removed Pin From Net: NetName=RxOut Pin=U5-3
+Removed Pin From Net: NetName=GND Pin=U5-4
+Removed Pin From Net: NetName=GND-USB Pin=U5-5
+Removed Pin From Net: NetName=RxIn Pin=U5-6
+Removed Pin From Net: NetName=TxOut Pin=U5-7
+Removed Pin From Net: NetName=VCC-USB Pin=U5-8
+Removed Member From Class: ClassName=iso Member=U5
+Added Component: Designator=U?(SLAB-SOIC-16-WB_M)
+Add component (AddParameter): Name = "10kV surge"; Value = "FALSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AEC-Q100"; Value = "FALSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Type"; Value = "Unidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.silabs.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.silabs.com/Support%20Documents/TechnicalDocs/Si861x-2x.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.silabs.com/Support%20Documents/TechnicalDocs/Si823x.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Enable Control"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation Rating (kV)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Data Rate (Mbps)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Propagation Delay (ns)"; Value = "13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Wide Body Plastic Small Outline, Body 10.3 x 7.5 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-16-WB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "Si8621BD-B-IS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Family"; Value = "Isolators"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=+3V3 Pin=U?-3
+Added Pin To Net: NetName=TxIn Pin=U?-4
+Added Pin To Net: NetName=RxOut Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND-USB Pin=U?-9
+Added Pin To Net: NetName=RxIn Pin=U?-12
+Added Pin To Net: NetName=TxOut Pin=U?-13
+Added Pin To Net: NetName=VCC-USB Pin=U?-14
+Added Pin To Net: NetName=GND-USB Pin=U?-16
+Added Member To Class: ClassName=iso Member=Component U? Si8621BD-B-IS

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TxISO Pin=U6-1
+Removed Pin From Net: NetName=RxISO Pin=U6-5
+Change Component Description : Designator=MP1 Old Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins New Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins | Wurth Electronics 74651174R
+Change Component Description : Designator=MP2 Old Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins New Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins | Wurth Electronics 74651174R
+Change Component Description : Designator=MP3 Old Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins New Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins | Wurth Electronics 74651174R
+Change Component Description : Designator=MP4 Old Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins New Description=74651174R Shank, THR, external thread, 7mm W x 8.5mm H, M4, 4 Pins | Wurth Electronics 74651174R
+Added Pin To Net: NetName=RxISO Pin=U6-1
+Added Pin To Net: NetName=TxISO Pin=U6-5
